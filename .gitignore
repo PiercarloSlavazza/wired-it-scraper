@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 /wired_it_scraper/articles.json
+/corpora/wired_it_articles_20190821.json
