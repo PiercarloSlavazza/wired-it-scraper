@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/wired_it_scraper/articles.json
