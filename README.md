@@ -18,4 +18,4 @@ Snapshots of the data can be found in the `corpora` folder.
 
 # Goals
 
-The crawled data are meant to be used as "training corpus" in Automatic Text Classification tasks - as explained in the essay ["What is the best method for Automatic Text Classification?"](https://medium.com/@piercarlo_slavazza/what-is-the-best-method-for-automatic-text-classification).
+The crawled data are meant to be used as "training corpus" in Automatic Text Classification tasks - as explained in the essay ["What is the best method for Automatic Text Classification?"](https://medium.com/@piercarlo_slavazza/https-medium-com-piercarlo-slavazza-what-is-the-best-method-for-automatic-text-classification-a01d4dfadd).
